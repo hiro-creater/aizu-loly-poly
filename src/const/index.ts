@@ -1,0 +1,5 @@
+const DOLY_POLY_MAX_WIDTH = 20
+
+export {
+    DOLY_POLY_MAX_WIDTH
+}
